@@ -39,6 +39,9 @@
 				</plugins>
 			</build>		
 		</profile>
+		<profile>
+			<id>restcomm</id>
+		</profile>
 	</profiles>	
 	
 	<!-- dupe info from parent, but it's only way to retrieve the parent without checkout -->
